@@ -1,0 +1,8 @@
+# The Power BI file and the datasets are not published
+*.pbix
+data/
+*.csv
+*.xlsx
+
+# Secrets
+.env
